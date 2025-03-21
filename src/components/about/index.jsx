@@ -8,12 +8,17 @@ const AboutDetails = () => {
         <h2 className="text-2xl md:text-3xl text-yellow-400 font-bold">
           Eeshani Jha
         </h2>
-        
+
         <p className="text-white font-light text-sm sm:text-base md:text-lg mt-3">
-          Hi! I'm **Eeshani Jha**, a **final-year B.Tech student at NIT Rourkela**, passionate about **software development, UI/UX design, and artificial intelligence**. 
-          With expertise in **React, Next.js, Django, and AI-driven solutions**, I have built multiple projects, including **AI-powered applications and full-stack web platforms**.
-          <br /><br />
-          Previously, I interned at **Fractal Analytics**, where I worked on **Gen-AI projects, optimizing large language models (LLMs) with Microsoft Azure**. 
+          Hi! I&apos;m <strong>Eeshani Jha</strong>, a <strong>final-year B.Tech student at NIT Rourkela</strong>, 
+          passionate about <strong>software development, UI/UX design, and artificial intelligence</strong>.
+          With expertise in <strong>React, Next.js, Django, and AI-driven solutions</strong>, I have built multiple 
+          projects, including <strong>AI-powered applications and full-stack web platforms</strong>.
+        </p>
+
+        <p className="text-white font-light text-sm sm:text-base md:text-lg mt-3">
+          Previously, I interned at <strong>Fractal Analytics</strong>, where I worked on 
+          <strong> Gen-AI projects, optimizing large language models (LLMs) with Microsoft Azure</strong>. 
           I enjoy solving complex problems and developing scalable, efficient, and user-friendly applications.
         </p>
       </div>
