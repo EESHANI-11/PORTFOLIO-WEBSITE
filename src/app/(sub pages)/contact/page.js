@@ -23,7 +23,7 @@ export default function Contact() {
           Summon the Tech Wizard! ⚡🧙‍♂️
           </h1>
           <p className="text-center font-light text-sm xs:text-base"> 
-          Got a mind-blowing idea? Need a problem solved? Or just want to geek out over tech? Drop me a message, and let’s cook up something epic together. I promise I don’t bite—unless it’s bad code. 😉"
+          Got a mind-blowing idea? Need a problem solved? Or just want to geek out over tech? Drop me a message, and let’s cook up something epic together. I promise I don’t bite—unless it’s bad code. 😉
 
 
 
